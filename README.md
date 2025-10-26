@@ -1,3 +1,2 @@
 # gittest
-# Проверка :)
-ffffffffff
+файл control)
