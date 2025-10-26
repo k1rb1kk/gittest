@@ -1,2 +1,2 @@
 # gittest
-файл control)
+Текст задания находится в control
